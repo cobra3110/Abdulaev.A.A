@@ -9,21 +9,8 @@ public class Main {
             System.out.print(numbers[i]+",");
         }
         System.out.println();
- 
+
         //2
-        int[] numbers1 = {6, 3, 1, 12, 16, 18};
-        int maxElement = numbers1[0];
-        int maxIndex = 0;
-
-        for (int i = 1; i < numbers1.length; i++) {
-            if (numbers1[i] > maxElement) {
-                maxElement = numbers1[i];
-                maxIndex = i;
-            }
-        }
-
-        System.out.println(maxElement);
-        System.out.println(maxIndex);
 
         //3
         int[] numbers3 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
