@@ -9,9 +9,9 @@ public class Main {
             System.out.print(numbers[i]+",");
         }
         System.out.println();
-
+ 
         //2
-        int[] numbers1 = {5, 12, 3, 8, 20, 1, 15};
+        int[] numbers1 = {6, 3, 1, 12, 32, 18};
         int maxElement = numbers1[0];
         int maxIndex = 0;
 
